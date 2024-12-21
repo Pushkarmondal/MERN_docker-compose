@@ -38,3 +38,7 @@ docker build -t mern-backend .
 
 `docker compose up -d`
 
+## Here is the Frontend running at browser ->
+![Screenshot](./Screenshot%202024-12-21%20at%2017.52.09.png)
+
+
